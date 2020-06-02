@@ -1,0 +1,73 @@
+.box{
+	width: 100%;
+	margin: 0 auto;
+	background: lightgrey;
+}
+.header{
+	width: 100%;
+	height: 900px;
+	background-image: url(../img/work.jpg);
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+.hello{
+	color: white;
+}
+.work{
+	color: white;
+}
+.main{
+	width: 100%;
+	background:grey;
+	color: white;
+}
+.mmywork{
+	text-align: center;
+}
+.interst{
+	font-size: 24px;
+	text-align: center;
+	width: 400px;
+}
+.fb1{
+	display: flex;
+	justify-content: center;
+}
+.card1{
+	width: 20%;
+	border:1px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+.card2{
+	width: 20%;
+	border:1px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+.fb2{
+	display: flex;
+	justify-content: space-around;
+}
+.aside{
+	width: 100%;
+	background:white;
+
+}
+.projcts{
+	text-align: center;
+}
+.portf{
+	width: 20%;
+	height: 300px;
+}
