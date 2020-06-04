@@ -64,6 +64,10 @@
     background: white;
     display: none;
     margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 
 }
 .hider1{
@@ -71,6 +75,10 @@
     padding: 1%;
     height: 100%;
     background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 .section2{
     width: 50%;
@@ -92,6 +100,9 @@ footer{
 	background: lightblue;
 	text-align: center;
 }
+.mozgi1{
+  width: 100%;
+}
 .column{
     background: #ffff00;
 }
@@ -112,7 +123,7 @@ table{
   
     text-align: center;
 
-    margin-top: 15%;
+    margin-top: 2%;
 }
 .block1{
     width: 250px;
@@ -543,15 +554,15 @@ table{
 }
 
 .vidik1{
-  width: 740px;
+  width: 670px;
   height: 200px;
 }
 .vidik2{
-  width: 740px;
+  width: 670px;
   height: 200px;
 }
 .vidik3{
-  width: 740px;
+  width: 670px;
   height: 200px;
 }
 .traning{
