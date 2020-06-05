@@ -89,7 +89,6 @@
 
 }
 .time{
-    color: blue;
     margin-left: 2%;
     font-size: 25px;
 }
@@ -122,7 +121,8 @@ table{
     width: 700px;
   
     text-align: center;
-
+    display: flex;
+    justify-content: center;
     margin-top: 2%;
 }
 .block1{
